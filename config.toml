@@ -1,8 +1,0 @@
-[theme.light]
-primaryColor = "#4f6df5"
-
-[theme.dark]
-primaryColor = "#7d93ff"
-
-[browser]
-gatherUsageStats = false
